@@ -246,3 +246,6 @@ This repository serves as the official landing page for xGen SEO. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of xGen SEO today!**
+
+---
+**Last updated:** 2026-09-11 16:50:14 UTC
